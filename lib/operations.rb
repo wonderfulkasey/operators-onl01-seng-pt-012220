@@ -6,8 +6,8 @@ TRUE
 elsif speed < 40 
 TRUE
 
-else speed >60 == speed <40
-return FALSE
+else 
+FALSE
 
 end
 
